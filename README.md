@@ -24,14 +24,13 @@
 
 ## Proje Dosya Yapısı
 
-- **/src**
--   `CNN80_20.ipynb`
--   `ANN70_30.ipynb`
--   `TL75_25.ipynb`
-- **/lung_image_sets**
+- **/DerinOgrenmeProje**
+  - **/src**
+    - `ANN70_30.ipynb`
+    - `CNN80_20.ipynb`
+    - `TL75_25.ipynb`
+  - **/lung_image_sets**
 - `README.md`
-
-
 
 ## Kullanım
 
@@ -41,7 +40,6 @@
   <li>Ipynb dosyaları içeri aktarılır</li>
   <li>Adım adım kod satırları çalıştırılır</li>
 </ol>
-
 
 
 
