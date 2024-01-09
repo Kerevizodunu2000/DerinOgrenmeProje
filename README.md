@@ -24,11 +24,11 @@
 
 ## Proje Dosya Yapısı
 
-Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin:
 - **/src**
-- `CNN80_20.ipynb`
-- `ANN70_30.ipynb`
-- `TL75_25.ipynb`
+- `  CNN80_20.ipynb`
+- `  ANN70_30.ipynb`
+- `  TL75_25.ipynb`
+- **/lung_image_sets**
 - `README.md`
 
 
