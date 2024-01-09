@@ -20,7 +20,7 @@
 
 ## Proje Açıklaması
 
- proje, zatürre hastalığının viral veya bakteriyel kaynaklı olup olmadığını sinir ağları aracılığıyla tespit etmeyi amaçlamaktadır. Proje kapsamında geliştirilen modellerin başarı oranları ve performans metrikleri detaylı bir şekilde değerlendirilecek, en etkili modelin belirlenmesi hedeflenmektedir.
+ Zatürre hastalığının viral veya bakteriyel kaynaklı olup olmadığını sinir ağları aracılığıyla tespit etmeyi amaçlamaktadır. Proje kapsamında geliştirilen modellerin başarı oranları ve performans metrikleri detaylı bir şekilde değerlendirilecek, en etkili modelin belirlenmesi hedeflenmektedir.
 
 ## Proje Dosya Yapısı
 
