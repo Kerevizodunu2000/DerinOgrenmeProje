@@ -30,7 +30,7 @@
     - `CNN80_20.ipynb`
     - `TL75_25.ipynb`
   - **/lung_image_sets**
-- `README.md`
+  - **`README.md`**
 
 ## Kullanım
 
