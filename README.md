@@ -27,8 +27,11 @@
 - **/DerinOgrenmeProje**
   - **/src**
     - `ANN70_30.ipynb`
+    - `ANN80_20.ipynb`
+    - `CNN65_35.ipynb`
     - `CNN80_20.ipynb`
     - `TL75_25.ipynb`
+    - `TL80_20.ipynb`
   - **/lung_image_sets**
   - **`README.md`**
 
